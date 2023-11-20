@@ -1,0 +1,10 @@
+{
+    "name": "radovinetch/my-package",
+    "description": "My package for OTUS",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Radovinetch\\MyPackage\\": "src/"
+        }
+    }
+}
