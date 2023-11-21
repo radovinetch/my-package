@@ -6,5 +6,8 @@
         "psr-4": {
             "Radovinetch\\MyPackage\\": "src/"
         }
+    },
+    "require": {
+        "php": ">=8.0"
     }
 }
